@@ -1,2 +1,2 @@
 # C38RV_SpeedRacer_StudentActivity
-Student Activity
+A whitehat jr. project which lets you play a multiplayer car racing game along with your peers.
